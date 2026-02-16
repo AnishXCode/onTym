@@ -49,7 +49,7 @@ npm install
 
 Create a file named `firebaseConfig.js` in the location given below and this file contains your Firebase project credentials. This file is essential for connecting your React application to Firebase services.
 
-**Location:** `src/auth/firebaseConfig.js`
+**Location:** `src/firebaseConfig.js`
 
 **Configuration Keys:**
 - `apiKey` - Public API key for authenticating requests to Firebase
